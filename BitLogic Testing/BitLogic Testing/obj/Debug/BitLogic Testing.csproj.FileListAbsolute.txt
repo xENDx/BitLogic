@@ -1,0 +1,8 @@
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\bin\Debug\BitLogic Testing.exe.config
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\bin\Debug\BitLogic Testing.exe
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\bin\Debug\BitLogic Testing.pdb
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\bin\Debug\BitLogic.dll
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\bin\Debug\BitLogic.pdb
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\obj\Debug\BitLogic Testing.csprojResolveAssemblyReference.cache
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\obj\Debug\BitLogic Testing.exe
+C:\pleb\code\C#\lib\BitLogic\BitLogic Testing\BitLogic Testing\obj\Debug\BitLogic Testing.pdb
