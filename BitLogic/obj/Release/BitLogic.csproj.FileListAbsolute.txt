@@ -1,0 +1,5 @@
+C:\pleb\code\C#\lib\BitLogic\BitLogic\bin\Release\BitLogic.dll
+C:\pleb\code\C#\lib\BitLogic\BitLogic\bin\Release\BitLogic.pdb
+C:\pleb\code\C#\lib\BitLogic\BitLogic\obj\Release\BitLogic.dll
+C:\pleb\code\C#\lib\BitLogic\BitLogic\obj\Release\BitLogic.pdb
+C:\pleb\code\C#\lib\BitLogic\BitLogic\obj\Release\BitLogic.csprojResolveAssemblyReference.cache
